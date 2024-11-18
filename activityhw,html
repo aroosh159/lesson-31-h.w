@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FINAL PROJECT</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+<script src="https://kit.fontawesome.com/996973c893.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&family=Roboto+Slab:wght@200;400;600;900&d
+isplay=swap" rel="stylesheet" />
+<link rel="stylesheet" href=".vscode/javascript/lesson no 29/style.css" />
+</head>
+<body>
+<div id="topnav" style="color: blue; padding: 10px; background-color: aqua;" >
+</center>
+<a  style="margin-right: 50px;" class="active" href="#">CLUB</a>
+    <a style="margin-right: 50px" href="#" >About_us</a>
+    <a style="margin-right: 50px" href="#">Other Details</a>
+</div>
+
+<div style="background-image: URL(Kurulus\ osman\ with\ family\ poster.jpg);background-size: cover; height: 900px;">
+    <div class="container container">
+        <CENTER>
+        <h2 class="text-DANGER" >Hello! I am </h2>
+        <h1 class="text-warning">Kurulus Osman Fan Club </h1>
+        <h2 class="text-DANDER" >a club for Kurulus osman lovers. </h2>
+        </CENTER>
+
+    </div>
+</div>
+<body>
+<div id="projects" class="container mt-5 pt-5">
+<h1 class="text-warning mb-3 pb-2">More Information</h1>
+<div class="row">
+<div class="col-4 mb-5">
+<div class="card" style="width: 18rem;">
+<img src="osman new poster.jpg" class="card-img-top" style="display: 18rem;" alt="...."/>
+<div class="card-body">
+<h5 class="card-title">About Kurulus Osman</h5>
+<p class="card-text">Kuruluş: Osman, translated as Establishment: Osman, is a historical fiction Turkish television 
+series produced by Bozdağ Film.It tells the story of the life of Osman I, founder of the Ottoman Empire.</p>
+<a href="#" class="btn btn-warning">Learn More</a>
+<div class="col-5 mb-4">
+<div class="card" style="width: 18rem;">
+<img src="e4fc99d093eb0c0940181e68e9c7f2d0.jpg" class="card-top-img img-fluid" alt="..." style="display: 18rem;"/>
+<div class="card-body">
+<h5 class="card title">About cast</h5>
+<p class="card-text">Its main cast includes burak ozcivit
+    as Osman bey,Ozge Torer as Bala Hatun,Emre bey as Orhan bey,faruk aran as alladin bey,ecen sena bayir as Princess holofira,
+Belgin simsek as gonca hatun and leya kirsan as fatma Hatun in the main lead.</p>
+<a href="#" class="btn btn-warning">Learn More</a>
+</div>
+</div>
+ </div>
+<div class="col-4 mb-5">
+<div class="card" style="width: 18rem;">
+<img src="download.webp" class="card-top-img" alt="..." style="display: 18rem;"/>
+<div class="card-body">
+<h5 class="card title">How to join us</h5>
+<p class="card-text">Its ver simple just click on join now button below,fill the necessary things click submit.You will receive a
+    mail of your joining verificaion and your membership card. </p>
+<a href="#" class="btn btn-warning">Learn More</a>
+</div>
+</div>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+</body>
+</html>
